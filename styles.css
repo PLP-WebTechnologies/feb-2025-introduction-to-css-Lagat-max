@@ -1,0 +1,62 @@
+url(../../../Pictures/picmasai.jpg)logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 80px;
+    height: auto;
+  }
+  
+h1 {
+    color: rgb(180, 7, 7);
+  }
+  h1 {
+    font-family: 'Roboto', serif;
+  }
+  
+  p {
+    font-family: 'Courier New', monospace;
+  }
+  
+  /* Style the body for overall readability */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #fdfdfd;
+    color: #333;
+    line-height: 1.6;
+    margin: 40px;
+    padding: 0;
+  }
+  
+  /* Style h1 headings */
+  h1 {
+    font-family: 'Georgia', serif;
+    color: #b22222; /* firebrick red */
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style all paragraph elements */
+  p {
+    font-size: 18px;
+    color: #10dd09;
+    max-width: 700px;
+  }
+  
+  /* Style a class selector for a custom box */
+  .info-box {
+    background-color: #f0f8ff;
+    border-left: 4px solid #007acc;
+    padding: 16px;
+    margin: 20px 0;
+    border-radius: 8px;
+  }
+  
+  
+  
+  /* ID selector example */
+  #main-heading {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 40px;
+  }
+  
